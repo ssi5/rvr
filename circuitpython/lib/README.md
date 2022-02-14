@@ -53,3 +53,5 @@ def drive_to_position_si(yaw_angle, x, y, speed):
 
 # END OF DRIVE_TO_POSITION_SI
 ```
+
+Further documentation in [this presentation](https://drive.google.com/file/d/1oYMbidrGnvpz_ruhsh2HalU-BsVFMmpa/view?usp=sharing).
